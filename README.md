@@ -1,4 +1,4 @@
-# Age Calculator Program
+# Age Calculator
 
 This program calculates a person's age based on their birth date and the current date. It also checks for invalid input and displays a birthday message if the current date matches the birth date.
 
